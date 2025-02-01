@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hyprland-BTW  
 
-<!--
-**Hyprland-Btw/Hyprland-BTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 **Project in early development** 🚧  
 
-Here are some ideas to get you started:
+Welcome to **Hyprland-BTW**, an advanced and ultra-complete **Hyprland** configuration.  
+This project is still in its early stages, and commits will be added progressively.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project Goals  
+- Provide an even more refined and optimized Hyprland configuration than existing ones.  
+- Create a **fully-featured, DE-like** experience while keeping the flexibility and minimalism of a tiling WM.  
+- Include detailed documentation for easy installation and customization.  
+- Ensure a smooth, aesthetic, and high-performance workflow on a minimalist Linux setup.  
+
+## Current Status  
+✅ Repository created  
+🔄 Configuration in progress  
+📌 Contributions and suggestions are welcome!  
+
+## Follow the Project  
+Stay tuned for updates by watching this repository!  
+Feel free to open **Issues** for suggestions or feedback.  
+
+---
+
+✨ **Hyprland, but better. (btw)** ✨
